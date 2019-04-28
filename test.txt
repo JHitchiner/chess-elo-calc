@@ -1,0 +1,6 @@
+James:2000,Jack:1800,James
+Caleb:1500,Bella:1200,Caleb
+James:2000,Caleb:1500,James
+Caleb:1500,Jack:1800,Jack
+James:2000,Jack:1800,Jack
+Bella:1200,Jack:1800,Bella
