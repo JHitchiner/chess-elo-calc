@@ -1,2 +1,3 @@
 # chess-elo-calc
-Python scirpt that will take a text file with players, their elos, and outcome of games, and will calculate each players new elos after all games. Good for tournament elo tracking.
+Python script that parses through a text file containing chess games and players data, and will update players elo ratings
+Good for tournament elo tracking.
